@@ -10,10 +10,6 @@
   display: none;
 }
 
-#titlebar {
-	display: none !important;
-}
-
 /*Collapse in default state and add transition*/
 #sidebar-box[sidebarcommand="treestyletab_piro_sakura_ne_jp-sidebar-action"] {
   overflow: hidden;
